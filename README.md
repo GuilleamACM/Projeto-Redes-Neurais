@@ -12,7 +12,7 @@ Modelos que vamos fazer =
 
 Primeiro passo, tuning de hyperparametros com neural network de apenas uma camada.
 
-    hyperparametros que poderão ser testados (talvez com auxilio de gridsearch ou semelhante):
+    hyperparametros (entre varios) que poderão ser testados (talvez com auxilio de gridsearch ou semelhante):
         batch-size
         hidden_layer_sizes
         activation
